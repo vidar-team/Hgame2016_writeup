@@ -17,14 +17,21 @@
 [http://lorexxar.cn/2016/10/10/hitcon2016/](http://lorexxar.cn/2016/10/10/hitcon2016/)
 
 从上面的writeup呢，我想你也能看到一些要求：
+
 1、writeup必须包含你做过的所有题目
+
 2、每道题目的writeup必须包括题目名、做题时的思路、关键知识点及利用方式、必要的脚本以及工具，最好还有截图
 
 除了基本要求，还有一些特殊的要求要说清楚
+
 3、所以有完成题目的参赛成员（仅包括校内）都**必须提交writeup**，即使只做出一题...
+
 4、无论你使用markdown或者word完成writeup，我们只接受**pdf格式的writeup**！！！
+
 5、每周比赛结束后**24小时内**必须提交writeup，如果特殊情况可以询问LoRexxar，如果没有在规定时间内提交writeup，则视为上周比赛成绩无效。
+
 6、writeup命名格式为[id_weekX.pdf]，例如**LoRexxar_week1.pdf**
+
 7、在限时内统一将writeup发送到**wp@vidar.club**
 
 
