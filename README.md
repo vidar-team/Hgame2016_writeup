@@ -1,6 +1,4 @@
-﻿# hgame writeup要求
-
-标签（空格分隔）： 未分类
+# hgame writeup要求
 
 ---
 # 第一周优秀writeup #
