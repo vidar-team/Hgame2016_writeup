@@ -9,7 +9,7 @@
 
 [misc](./week1/hgame_week1_misc_writeup.pdf)
 
-[re&pwn]()
+[re&pwn](./week1/HGAME_week1_re&pwn.pdf)
 
 剩余为选手优秀writeup，优秀writeup将会奖励50分
 
