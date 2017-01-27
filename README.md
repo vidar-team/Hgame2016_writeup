@@ -1,6 +1,23 @@
 # hgame writeup要求
 
 ---
+
+# 第二周优秀writeup #
+
+首先是官方wp
+
+[web&pen&crypto&misc](http://heartsky.info/2017/01/27/HCTF-GAME-week2-writeup/)
+
+re&pwn还没上线
+
+剩余为优秀选手writeup
+
+[wy16880175](./week2/wy16880175-week2.pdf)
+
+[hammer](./week2/hammer_week2.pdf)
+
+[veritas501](./week2/veritas501_week2.pdf)
+
 # 第一周优秀writeup #
 
 首先是官方wp
