@@ -2,6 +2,28 @@
 
 ---
 
+# 第三周优秀writeup #
+
+首先是官方wp
+
+[web&pen](http://heartsky.info/2017/02/06/HCTF-GAME-week3-writeup/)
+
+re&pwn的出题人掀桌子了，建议直接去问
+
+至于密码学，节后综合症犯了，明天再说
+
+
+剩余为优秀选手writeup
+
+[wy16880175](./week3/wy16880175-week3.pdf)
+
+[Xris](./week3/Xris_Week3.pdf)
+
+[Veritas501](./week3/Veritas501_Week3.pdf)
+
+[一叶知秋](./week3/一叶知秋_week3.pdf)
+
+
 # 第二周优秀writeup #
 
 首先是官方wp
